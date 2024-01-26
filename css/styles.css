@@ -40,7 +40,6 @@ img {
 /* =======HEADER========== */
 
 .header {
-    padding: 24px 0;
     border-bottom: 1px solid #E7E9FC;
 }
 
@@ -53,7 +52,7 @@ img {
 .header-navigation {
     display: flex;
     align-items: center;
-
+    padding: 24px 0;
 }
 
 .header-logo {
