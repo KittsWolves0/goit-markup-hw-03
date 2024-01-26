@@ -47,7 +47,6 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 24px 0;
 }
 
 .header-navigation {
@@ -83,6 +82,7 @@ img {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .header-link:hover,
