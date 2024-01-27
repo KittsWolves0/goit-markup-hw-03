@@ -83,6 +83,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
+    display: block;
 }
 
 .header-link:hover,
@@ -308,7 +309,6 @@ img {
 }
 
 .portfolio-img {
-    margin-bottom: 32px;
     display: block;
 }
 
